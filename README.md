@@ -2,16 +2,28 @@
   Hi there 👋
 </h1>
 
-<details><summary>📃 Resume</summary>Peek a boo!</details>
+<h1 align='left'>
+ About me 
+</h1>
 
-<picture> 
- <a href="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Developer">
-  <img src="/assets//developer.webp" align="right" width="440" height="382">
- </a>
-</picture>
+<p>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" align="right" width="500" height="250" alt="Developer"/>
+  👨‍💻 &emsp; Technology enthusiast <br/><br/>
+  ♥️ &emsp; Love coding and learning new tech skills <br/><br/>
+  🤖 &emsp; Interested in ML and AI <br/><br/>
+  🎮 &emsp; Enjoy game development <br/><br/>
+</p>
+
+<br/>
+<br/>
+<br/>
+
+<h1 align='left'>
+  The basic stuff...
+</h1>
 
  ```python
-class AboutMe:
+class TheBasics:
     def __init__(self):
         self.name = "Emmanouil Marketos"
         self.profession = "Technical Analyst"
@@ -26,20 +38,33 @@ class AboutMe:
         return f"{intro}\n\nContact Info:\n{contact_details}"
 
 if __name__ == "__main__":
-    me = AboutMe()
+    me = TheBasics()
     print(me.introduce())
 ```
 
-<h1 align='center'>
+<h1 align='left'>
+  The detailed stuff...
+</h1>
+
+<details><summary>Resume 🧾</summary>DRAFT</details>
+
+<h1 align='left'>
   Tech Skills
 </h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,php,html,css,mysql,lua,git,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,php,html,css,mysql,lua,git,vscode,figma&perline=4" />
   </a>
 </p>
 
+<h1 align='left'>
+  Happy Coding!
+</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400" alt="Developer"/>
+</p>
 
 <!-- ![](https://komarev.com/ghpvc/?username=EM-src&color=green) -->
  
