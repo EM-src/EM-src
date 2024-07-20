@@ -89,13 +89,4 @@ if __name__ == "__main__":
     <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,php,html,css,mysql,lua,git,vscode,figma&perline=4" />
   </a>
 </p>
-
-<!-- 
-<h1 align='left'>
-  Happy Coding!
-</h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400" alt="Developer"/>
-</p> 
-![Profile Views](https://komarev.com/ghpvc/?username=EM-src&color=green)-->
  
